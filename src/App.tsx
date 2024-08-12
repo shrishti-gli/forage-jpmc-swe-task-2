@@ -53,7 +53,7 @@ class App extends Component<{}, IState> {
           Bank & Merge Co Task 2
         </header>
         <div className="App-content">
-          <button className="btn btn-primary Stream-button"
+          <button className="btn btn-primary Stream-button";
             // when button is click, our react app tries to request
             // new data from the server.
             // As part of your task, update the getDataFromServer() function
